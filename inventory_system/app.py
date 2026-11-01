@@ -90,7 +90,7 @@ if not st.session_state["authenticated"]:
 
             st.markdown("---")
             st.info(
-                "💡 **Default College Demo Credentials:**\n\n"
+                "💡 **Pre-configured Accounts:**\n\n"
                 "- 👤 **Manager Account:** Username: `admin` | Password: `admin123`\n"
                 "- 👤 **Staff Account:** Username: `staff` | Password: `staff123`"
             )
